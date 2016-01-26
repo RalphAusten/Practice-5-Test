@@ -1,11 +1,8 @@
 feature 1 ralph 1 change 2
 feature 1 ralph 1 change 3
-<<<<<<< dev
 feature 1 deleted line 3 and added this new line
-=======
 feature 1 ralph 1 change 4
 feature 1 ralph 1 change 5
 alkdjaklsdfjskd
 askldfjskd
 sdkfjsjkdf
->>>>>>> change 5
