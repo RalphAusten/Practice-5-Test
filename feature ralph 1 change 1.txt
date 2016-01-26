@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 feature 1 ralph 1 change 2
 feature 1 ralph 1 change 3
 feature 1 deleted line 3 and added this new line
@@ -10,3 +11,6 @@ sdkfjsjkdf
 
 
 Sinu making changes again
+=======
+Feature 6 source tree
+>>>>>>> feature/ralph_1
